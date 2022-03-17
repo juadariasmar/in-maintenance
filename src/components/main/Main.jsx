@@ -28,7 +28,7 @@ const main = () => {
         </svg>
         <article>
           <h2 className="i-center-item">Comic Soon</h2>
-          <h3 className="i-center-item">In Maintenance</h3>
+          <h3 className="i-center-item">Web in Maintenance</h3>
         </article>
         <p>
           Visit my{" "}
